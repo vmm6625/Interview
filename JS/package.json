@@ -1,0 +1,13 @@
+{
+    "name": "interview",
+    "version": "1.0.0",
+    "description": "JS interview",
+    "main": "interview.js",
+    "scripts": {
+        "interview": "node src/interview.js",
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^25.5.4"
+    }
+}
